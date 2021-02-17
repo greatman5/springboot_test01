@@ -1,6 +1,5 @@
-package com.gtman5.test;
+package com.gtman5.test.hello;
 
-import com.gtman5.test.web.Hello;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package com.gtman5.test.web;
+package com.gtman5.test.hello;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
